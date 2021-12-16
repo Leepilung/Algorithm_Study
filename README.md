@@ -17,7 +17,7 @@
 
 - [배고픈 손예림](https://github.com/Yerimi11/Algorithm_group_study)
 - [회색 심장 이종호](https://github.com/Roha-Lee/sw_jungle_algorithm_group_study)
-- [정원종](https://github.com/gitddabong/Algorithm_study)
+- [깨우친 임금 정원종](https://github.com/gitddabong/Algorithm_study)
 - [진승현-대통령이될 남자](https://velog.io/@tmdgus3901/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%A1%B0%EC%9E%91%EB%9E%8C%EB%8B%A4-%ED%91%9C%ED%98%84%EC%8B%9D)
 - [하얀 망토 한종우](https://github.com/jwowo/algorithm-study)
 - plus 나
@@ -25,13 +25,39 @@
 # 🔗 문제 풀이 링크
 
 - 1206
-  125
-  344
+  125 (easy)
+  344 (easy)
 
 -1207
-819
-937
+819 (easy)
+937 (easy)
 
 -1208
-49
-5
+49 (medium)
+5 (medium)
+
+-1209
+코드 리뷰
+
+-1210
+1 (easy)
+42 (hard)
+
+-1211
+15 (medium)
+
+-1212
+561 (easy)
+121 (easy)
+
+-1213
+238 (medium)
+
+-1214
+234 (easy)
+
+-1215
+21 (easy)
+
+-1216
+코드 리뷰

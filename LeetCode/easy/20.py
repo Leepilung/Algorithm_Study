@@ -1,6 +1,7 @@
 # LeetCdoe 20. Valid Parentheses
 # https://leetcode.com/problems/valid-parentheses/
 
+# 유효한 괄호 그룹인지 체크하는 문제
 # Runtime : 28ms(85.91%)
 # Memory Usage : 14.4MB(36.29%)
 

@@ -61,3 +61,55 @@
 
 -1216
 코드 리뷰
+
+-1217
+206 (easy)
+
+-1218
+문제 풀이 66(easy) 13(easy)
+
+-1219
+2(medium)
+
+-1220
+24(medium)
+
+-1221
+328(medium)
+
+-1222
+92(medium)
+
+-1224
+20(easy)
+
+-1226
+316(medium)
+
+-1227
+739(medium)
+
+-1228
+225(implement) 232(implement)
+
+-1229
+622(implement)
+
+-1231
+641(implement)
+
+-0101
+Programmers
+기능개발, 주식 가격
+
+-0102
+23(hard)
+
+-0103
+771(easy)
+
+-0104
+3(medium)
+
+-0105
+347(medium)

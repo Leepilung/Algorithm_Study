@@ -37,7 +37,7 @@ class Solution:
 # s+c => 표현식, s 항목 in 리스트 
 
 # 두번째 풀이
-# 재귀 이용 더 빠른 방법.
+# 재귀를 함수로 이용한 더 빠른 방법.
 
 # Runtime : 37ms (71.52%)
 # Memory Usage : 14.3MB (33.58%)

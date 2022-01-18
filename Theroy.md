@@ -104,3 +104,54 @@ new_info
 ```
 
 이처럼 모든 요소를 언패킹할 수 있으며 여기서 동일한 키값('day')을 가지는 value값은 '14'로 업데이트또한 시도돼었다.
+
+# dict.fromkeys() 딕셔너리 생성 메소드
+
+> dict.fromkeys(seq,value)
+
+- 딕셔너리를 생서할 때 편리하게 사용할 수 있는 메소드.seq 옵션 값에 문자열을 입력할 수도 있다.
+
+- seq: 생성하려는 dictionary의 키(key)의 목록
+
+- value: 생성하려는 dictionary의 값(value)
+
+```python3
+seq = ('name', 'age', 'sex')
+
+dict_1 = dict.fromkeys(seq)
+print(dict_1)
+
+dict_2 = dict.fromkeys(seq, 10)
+print(dict_2)
+
+## result ##
+{'age':None, 'name':None, 'sex':None}
+{'age':10, 'name':10, 'sex':10}
+```
+
+# phython Operator.itemgetter 모듈
+operator.itemgetter 모듈은 주로 sorted와 같은 함수의 key 매개변수에 적용되어 다중 수준의 정렬을 가능하게 해주는 모듈이다.
+
+```python
+# EX
+students = [
+    ("jane", 22, 'A'),
+    ("dave", 32, 'B'),
+    ("sally", 17, 'B'),
+]
+```
+
+이와 같은 형태일 때
+```python
+from operator import itemgetter
+
+students = [
+    ("jane", 22, 'A'),
+    ("dave", 32, 'B'),
+    ("sally", 17, 'B'),
+]
+
+# 1번 값인 나이를 기준으로 정렬된다.
+result = sorted(students, key=itemgetter(1))
+print(result)
+```

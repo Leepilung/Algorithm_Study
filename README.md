@@ -14,7 +14,6 @@
 ## 👥 Member
 
 - [김슬기로운생활](https://github.com/sgsg9447/Algorithm_Study)
-
 - [배고픈 손예림](https://github.com/Yerimi11/Algorithm_group_study)
 - [회색 심장 이종호](https://github.com/Roha-Lee/sw_jungle_algorithm_group_study)
 - [깨우친 임금 정원종](https://github.com/gitddabong/Algorithm_study)
@@ -113,3 +112,6 @@ Programmers
 
 -0105
 347(medium)
+
+-0119
+git test

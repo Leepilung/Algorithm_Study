@@ -151,3 +151,7 @@ git test
 
 -0123
 110(easy) -> check again
+
+-0127
+Algorithm Study End
+스스로 복습해가면서 알아서 풀기.

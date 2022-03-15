@@ -1,6 +1,8 @@
 # 📖 SWJungle 3rd Algorithm_Study
 
-- 🗓 Date : 2021년 12월 6일 ~
+- 🗓 Date : 2021년 12월 6일 ~ 2022년 1월 27일
+
+- 📌 관리 시트 : https://docs.google.com/spreadsheets/d/1PXQrX2ikdko1LCjju3uD9HzcS0oQACGv5UUvAGHMagQ/edit#gid=944170151
 
 - 🌏 Location : 4층 휴게실
 
